@@ -15,7 +15,7 @@ When I'm not coding, you can find me:
 - Relaxing and recharging  
 
 ### 🚀 What I’m Doing
-I’m currently **building advanced React projects** and exploring **Next.js and Tailwind CSS** to create modern, dynamic web applications.  
+I’m currently **building React projects** and exploring **Next.js and Tailwind CSS** to create modern, dynamic web applications.  
 
 ### 📫 Connect with Me
 - [LinkedIn](linkedin.com/in/prosperjoseph)  
