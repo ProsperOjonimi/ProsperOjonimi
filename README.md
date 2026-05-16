@@ -18,7 +18,7 @@
 
 ## A bit about me
 
-I'm a frontend engineer and medical student, and I've stopped treating those as two separate identities. Medicine teaches me how to think in systems. Engineering gave me the tools to build them. I'm working toward health tech, not because it's trendy, but because I know what the problems actually look like from inside a hospital.
+I'm a frontend engineer and medical student, and I've stopped treating those as two separate identities. Medicine teaches me how to think in systems. Engineering gives me the tools to build them. I'm working toward health tech, not because it's trendy, but because I know what the problems actually look like from inside a hospital.
 
 Right now I'm shipping real products, deepening my full-stack skills, and studying.
 
@@ -104,17 +104,12 @@ Built it because I got tired of passive studying.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProsperOjonimi&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1635&title_color=6C5CE7&icon_color=6C5CE7&text_color=ffffff" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperOjonimi&layout=compact&langs_count=7&hide_border=true&bg_color=1A1635&title_color=6C5CE7&text_color=ffffff" />
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProsperOjonimi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=6C5CE7&icon_color=6C5CE7" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperOjonimi&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=6C5CE7" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProsperOjonimi&hide_border=true&background=1A1635&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7" />
+  <img src="https://streak-stats.demolab.com/?user=ProsperOjonimi&theme=tokyonight&hide_border=true&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7" />
 </div>
-
 ---
 
 ## 🤝 Find me here
@@ -130,10 +125,6 @@ Built it because I got tired of passive studying.
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ProsperOjonimi&label=Profile+Views&color=6C5CE7&style=for-the-badge" />
-
-</div>
 
 ---
 
