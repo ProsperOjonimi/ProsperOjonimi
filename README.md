@@ -7,7 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/Frontend_Engineer-%236C5CE7?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Medical_Student-%231A1635?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nigeria-%23008751?style=for-the-badge&logo=google-maps&logoColor=white" />
+
 </p>
 
 <p><i>Writing React at midnight. Ward rounds in the morning. Both demand the same thing, clear thinking under pressure.</i></p>
@@ -24,7 +24,7 @@ The main goal is AI and machine learning in healthcare. I've seen the problems f
 
 Right now I'm studying, shipping real products, and deepening my full-stack skills. The ML path is already in motion.
 
-- 🚀 Contributing to **EventPlanna** — an event management platform built for the Nigerian market
+- 🚀 Contributing to **EventPlanna** — an event management platform 
 - 🧪 Built **Rounds** — an AI clinical reasoning trainer that argues back at you
 - 🤖 Long-term goal: AI/ML engineering applied to real clinical problems
 - 🔭 Roadmap: NestJS · PostgreSQL · Prisma · Docker · React Native · Python · ML
@@ -40,6 +40,7 @@ Right now I'm studying, shipping real products, and deepening my full-stack skil
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
 
 ### State & data fetching
@@ -84,10 +85,14 @@ Right now I'm studying, shipping real products, and deepening my full-stack skil
 
 ### 🎟️ [EventPlanna](https://eventplanna.com)
 
-An all-in-one event management platform built specifically for the Nigerian market. Think budget tracking, AI-powered vendor matching from a network of verified vendors, guest management, team collaboration, drag-and-drop timelines, and event templates, all under a pay-as-you-go credit model, no subscriptions.
-I'm part of the frontend engineering team. My work spans core product flows — onboarding, the dashboard, the credit system UI, and the create event flow. I've also been deep in API integrations, wiring up real data across features that actually move the product forward.
+An all-in-one event management platform. Think budget tracking, AI-powered vendor matching from a network of verified vendors, guest management, team collaboration, drag-and-drop timelines, and event templates, all under a pay-as-you-go credit model, no subscriptions.
+I'm part of the frontend engineering team. My work spans core product flows — onboarding, the dashboard, the credit system, the create event flow.... I've also been deep in API integrations, wiring up real data across features that actually move the product forward.
 
-Stack: Next.js · TypeScript · Tailwind CSS · React Query
+**Stack:**
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&theme=dark" />
+<img src="https://img.shields.io/badge/React_Query-%23FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 
   </td>
     <td width="50%" valign="top">
@@ -98,7 +103,10 @@ An AI clinical reasoning trainer I built solo. You walk through a case and prese
 
 Built it because I got tired of passive studying.
 
-**Stack:** Next.js · TypeScript · Tailwind CSS · Supabase · Grok API
+**Stack:**
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase&theme=dark" />
+<img src="https://img.shields.io/badge/Grok_API-%23000000?style=for-the-badge&logo=xai&logoColor=white" />
 
   </td>
   </tr>
