@@ -116,10 +116,7 @@ Built it because I got tired of passive studying.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProsperOjonimi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=6C5CE7&icon_color=6C5CE7" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperOjonimi&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=6C5CE7" />
-</div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ProsperOjonimi&theme=tokyonight&hide_border=true&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7" />
 </div>
