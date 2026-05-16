@@ -1,63 +1,63 @@
 <div align="center">
 
-<!-- Animated Name Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Prosper+Ojonimi+%F0%9F%91%8B;Frontend+Engineer+%2B+Medical+Student;Building+at+the+intersection+of+code+%26+care." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1200&color=6C5CE7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Prosper+Ojonimi+%F0%9F%91%8B;Frontend+Engineer+%2B+Medical+Student;I+build+things+that+actually+matter." alt="Typing SVG" />
 
 <br/>
 
-<!-- Subtitle -->
 <p>
   <img src="https://img.shields.io/badge/Frontend_Engineer-%236C5CE7?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/4th_Year_Medical_Student-%231A1635?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medical_Student-%231A1635?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Nigeria-%23008751?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
-<p><em>I write React at midnight and diagnose patients at morning ward rounds. Both require pattern recognition — turns out they're not that different.</em></p>
+<p><i>Writing React at midnight. Ward rounds in the morning. Both demand the same thing — clear thinking under pressure.</i></p>
 
 ---
 
 </div>
 
-## 🧠 What I'm About
+## A bit about me
 
-I sit at the intersection of **medicine** and **software engineering** — and I'm not straddling it awkwardly, I'm building there intentionally.
+I'm a frontend engineer and medical student, and I've stopped treating those as two separate identities. Medicine teaches me how to think in systems. Engineering gave me the tools to build them. I'm working toward health tech — not because it's trendy, but because I know what the problems actually look like from inside a hospital.
 
-- 🏥 **4th-year Medical Student** at Bingham University — serious about the craft, targeting distinction
-- ⚡ **Frontend Engineer** specialising in React, Next.js, TypeScript, and Tailwind CSS
-- 🚀 Co-building **EventPlanna** — an event management platform designed for the Nigerian market
-- 🧪 Creator of **Rounds** — an AI-powered clinical reasoning trainer that pushes back on your diagnostic thinking
-- ♟️ Chess player on Lichess (`Proxp`) — I lose less than I used to
-- 🔭 Roadmap: full-stack (NestJS · PostgreSQL · Prisma · Docker) → health tech
+Right now I'm shipping real products, deepening my full-stack skills, and studying. Busy, but I like it that way.
+
+- 🚀 Contributing to **EventPlanna** — an event management platform built for the Nigerian market
+- 🧪 Built **Rounds** — an AI clinical reasoning trainer that argues back at you
+- 🔭 Full-stack roadmap in progress: NestJS · PostgreSQL · Prisma · Docker · AWS
+- 🤝 Open to frontend freelance
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 <div align="center">
 
-### Core
+### What I ship with
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" />
 </p>
 
-### State & Data
+### State & data fetching
 <p>
   <img src="https://skillicons.dev/icons?i=redux&theme=dark" />
+  &nbsp;
   <img src="https://img.shields.io/badge/React_Query-%23FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 </p>
 
-### Backend & Database
+### Backend & database
 <p>
   <img src="https://skillicons.dev/icons?i=supabase,postgres&theme=dark" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Next.js_API_Routes-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-### Tools & Workflow
+### Workflow
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
 </p>
 
-### On the Horizon 🔭
+### Learning next
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,docker&theme=dark" />
 </p>
@@ -66,40 +66,31 @@ I sit at the intersection of **medicine** and **software engineering** — and I
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
 ### 🎟️ EventPlanna
-**Event management platform built for the Nigerian market.**
+Event management platform
 
-A full-featured platform that lets event organizers create, manage, and sell tickets — with vendor management, attendee flows, and a design system built from the ground up.
+I'm one of the frontend engineers on the team.
 
-**Stack:** Next.js · TypeScript · Tailwind CSS · React Query · Supabase
 
-**Role:** Frontend Engineer — built the full landing page from Figma (Home, For Vendors, FAQs), design tokens, component architecture, and notification system.
 
-`#Pre-Launch` `#Nigerian Market` `#Event Tech`
-
-    </td>
+  </td>
     <td width="50%" valign="top">
 
 ### 🧪 Rounds
-**AI-powered clinical reasoning trainer.**
+An AI clinical reasoning trainer I built solo. You walk through a case and present your thinking. The AI consultant pushes back — no hand-holding, no revealing the diagnosis early. It's designed to feel like a real teaching round, the kind that actually makes you better.
 
-You present your reasoning. The AI consultant pushes back — without revealing the diagnosis. It forces you to defend your thinking the way a senior consultant would.
+Built it because I got tired of passive studying.
 
-Built for medical students who want to think, not just memorize.
+**Stack:** Next.js · TypeScript · Tailwind CSS · Supabase · Grok API
 
-**Stack:** Next.js · TypeScript · Tailwind CSS · Supabase · Anthropic API
 
-**Role:** Sole builder — product design, architecture, and full implementation.
-
-`#HealthTech` `#AI` `#MedEd` `#SideProject`
-
-    </td>
+  </td>
   </tr>
 </table>
 
@@ -109,41 +100,38 @@ Built for medical students who want to think, not just memorize.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prosperjoseph&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1635&title_color=6C5CE7&icon_color=6C5CE7&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosperjoseph&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=1A1635&title_color=6C5CE7&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProsperOjonimi&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1635&title_color=6C5CE7&icon_color=6C5CE7&text_color=ffffff" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperOjonimi&layout=compact&langs_count=7&hide_border=true&bg_color=1A1635&title_color=6C5CE7&text_color=ffffff" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prosperjoseph&theme=midnight-purple&hide_border=true&background=1A1635&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProsperOjonimi&hide_border=true&background=1A1635&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7" />
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Find me here
 
 <div align="center">
 
 <a href="https://linkedin.com/in/prosperjoseph">
-  <img src="https://img.shields.io/badge/LinkedIn-Prosper_Joseph-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/ojonimiii/">
-  <img src="https://img.shields.io/badge/Instagram-@ojonimiii-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://lichess.org/@/Proxp">
-  <img src="https://img.shields.io/badge/Lichess-Proxp-%23000000?style=for-the-badge&logo=lichess&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=prosperjoseph&label=Profile+Views&color=6C5CE7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=6C5CE7&style=for-the-badge" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Available+for+frontend+freelance+%7C+5PM–10PM+WAT;Building+the+next+generation+of+health+tech.;Open+to+collabs+at+the+medicine–tech+intersection." alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Available+for+freelance+%7C+5PM%E2%80%9310PM+WAT;Building+at+the+medicine%E2%80%93tech+intersection.;Always+open+to+a+good+conversation." alt="Footer Typing" />
 </div>
