@@ -85,7 +85,7 @@ Right now I'm studying, shipping real products, and deepening my full-stack skil
 
 ### 🎟️ [EventPlanna](https://eventplanna.com)
 
-An all-in-one event management platform. Think budget tracking, AI-powered vendor matching from a network of verified vendors, budget tracking, team collaboration, drag-and-drop timelines, event templates, and lots more all under a pay-as-you-go credit model, no subscriptions.
+An all-in-one event management platform. Think budget tracking, AI-powered vendor matching from a network of verified vendors, task management, team collaboration, drag-and-drop timelines, event templates, and lots more all under a pay-as-you-go credit model, no subscriptions.
 
 I'm part of the frontend engineering team. My work spans core product flows — onboarding, the dashboard, the credit system, the create event flow.... I've also been deep in API integrations, wiring up real data across features that actually move the product forward.
 
