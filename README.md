@@ -18,14 +18,17 @@
 
 ## A bit about me
 
-I'm a frontend engineer and medical student, and I've stopped treating those as two separate identities. Medicine teaches me how to think in systems. Engineering gives me the tools to build them. I'm working toward health tech, not because it's trendy, but because I know what the problems actually look like from inside a hospital.
+I'm a frontend engineer and medical student, and I've stopped treating those as two separate identities. Medicine teaches me how to think in systems. Engineering gives me the tools to build them.
 
-Right now I'm shipping real products, deepening my full-stack skills, and studying.
+The main goal is AI and machine learning in healthcare. I've seen the problems firsthand from inside a hospital, misdiagnoses, delayed decisions, information gaps, and I think intelligent systems are one of the most honest answers to them. That's the intersection I'm building toward.
+
+Right now I'm studying, shipping real products, and deepening my full-stack skills. The ML path is already in motion.
 
 - 🚀 Contributing to **EventPlanna** — an event management platform built for the Nigerian market
 - 🧪 Built **Rounds** — an AI clinical reasoning trainer that argues back at you
-- 🔭 Full-stack roadmap in progress: NestJS · PostgreSQL · Prisma · Docker · AWS · React Native
-- 🤝 Open to frontend freelance
+- 🤖 Long-term goal: AI/ML engineering applied to real clinical problems
+- 🔭 Roadmap: NestJS · PostgreSQL · Prisma · Docker · React Native · Python · ML
+- 🤝 Open to frontend freelance 
 
 ---
 
@@ -66,6 +69,7 @@ Right now I'm shipping real products, deepening my full-stack skills, and studyi
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,docker&theme=dark" />
    <img src="https://img.shields.io/badge/React_Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine_Learning-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 </div>
@@ -78,7 +82,7 @@ Right now I'm shipping real products, deepening my full-stack skills, and studyi
   <tr>
     <td width="50%" valign="top">
 
-### 🎟️ EventPlanna
+### 🎟️ [EventPlanna](https://eventplanna.com)
 
 An all-in-one event management platform built specifically for the Nigerian market. Think budget tracking, AI-powered vendor matching from a network of verified vendors, guest management, team collaboration, drag-and-drop timelines, and event templates, all under a pay-as-you-go credit model, no subscriptions.
 I'm part of the frontend engineering team. My work spans core product flows — onboarding, the dashboard, the credit system UI, and the create event flow. I've also been deep in API integrations, wiring up real data across features that actually move the product forward.
@@ -88,7 +92,7 @@ Stack: Next.js · TypeScript · Tailwind CSS · React Query
   </td>
     <td width="50%" valign="top">
 
-### 🧪 Rounds
+### 🧪 [Rounds](https://tryrounds.vercel.app)
 
 An AI clinical reasoning trainer I built solo. You walk through a case and present your thinking. The AI consultant pushes back, no hand-holding, no revealing the diagnosis early. It's designed to feel like a real teaching round, the kind that actually makes you better.
 
@@ -130,5 +134,5 @@ Built it because I got tired of passive studying.
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Available+for+freelance+%7C;Building+at+the+medicine%E2%80%93tech+intersection.;Always+open+to+a+good+conversation." alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Available+for+freelance+%7C;Headed+toward+AI%2FML+in+healthcare.;Building+at+the+medicine%E2%80%93tech+intersection.;Always+open+to+a+good+conversation." alt="Footer Typing" />
 </div>
