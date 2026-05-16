@@ -24,7 +24,7 @@ Right now I'm shipping real products, deepening my full-stack skills, and studyi
 
 - 🚀 Contributing to **EventPlanna** — an event management platform built for the Nigerian market
 - 🧪 Built **Rounds** — an AI clinical reasoning trainer that argues back at you
-- 🔭 Full-stack roadmap in progress: NestJS · PostgreSQL · Prisma · Docker · AWS
+- 🔭 Full-stack roadmap in progress: NestJS · PostgreSQL · Prisma · Docker · AWS · React Native
 - 🤝 Open to frontend freelance
 
 ---
@@ -65,6 +65,7 @@ Right now I'm shipping real products, deepening my full-stack skills, and studyi
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,docker&theme=dark" />
+   <img src="https://img.shields.io/badge/React_Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 </div>
