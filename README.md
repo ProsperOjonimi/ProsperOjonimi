@@ -28,7 +28,7 @@ Right now I'm studying, shipping real products, and deepening my full-stack skil
 - 🧪 Built **Rounds** — an AI clinical reasoning trainer that argues back at you
 - 🤖 Long-term goal: AI/ML engineering applied to real clinical problems
 - 🔭 Roadmap: NestJS · PostgreSQL · Prisma · Docker · React Native · Python · ML
-- 🤝 Open to frontend freelance 
+- 🤝 Open to frontend engineering roles
 
 ---
 
@@ -140,5 +140,5 @@ Built it because I got tired of passive studying.
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Available+for+freelance+%7C;Headed+toward+AI%2FML+in+healthcare.;Building+at+the+medicine%E2%80%93tech+intersection.;Always+open+to+a+good+conversation." alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Available+for+work+%7C;Headed+toward+AI%2FML+in+healthcare.;Building+at+the+medicine%E2%80%93tech+intersection.;Always+open+to+a+good+conversation." alt="Footer Typing" />
 </div>
