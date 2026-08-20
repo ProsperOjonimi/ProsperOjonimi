@@ -16,7 +16,7 @@ I'm a 4th-year medical student in Nigeria who also builds production frontend so
 
 Honestly, I didn't get into programming because of healthcare. I've always wanted to be an engineer, I love logic, I love math, I love how systems fit together, and that never really left me even after I ended up in medicine. So at some point I just decided to chase it and started learning to code, purely because it was what I wanted to do.
 
-It was only later, once I was deep into being medical school and building software at the same time, that it clicked: why not bring these two together? That's where Rounds came from. I took what I was learning as an engineer and used it to build something that makes clinical reasoning better, not just for me, but for other students too.
+It was only later, once I was deep into medical school and building software at the same time, that it clicked: why not bring these two together? That's where Rounds came from. I took what I was learning as an engineer and used it to build something that makes clinical reasoning better, not just for me, but for other students too.
 
 Today that looks like two things running in parallel. On **[Rounds](https://roundslive.com)**, I'm the solo founder building an AI clinical reasoning trainer, and on **[EventPlanna](https://eventplanna.com)**, I'm part of the frontend team shipping an event management platform.
 
