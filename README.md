@@ -4,11 +4,7 @@
 
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Frontend_Engineer-%236C5CE7?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Medical_Student-%231A1635?style=for-the-badge&logoColor=white" />
 
-</p>
 
 <p><i>Writing React at midnight. Ward rounds in the morning. Both demand the same thing, clear thinking under pressure.</i></p>
 
@@ -18,17 +14,13 @@
 
 ## A bit about me
 
-I'm a frontend engineer and medical student, and I've stopped treating those as two separate identities. Medicine teaches me how to think in systems. Engineering gives me the tools to build them.
+I build web applications with a clinical edge. By day, I study medicine; by night, I build frontend interfaces and tools like Rounds to bridge the gap between healthcare workflows and modern software.
 
-The main goal is AI and machine learning in healthcare. I've seen the problems firsthand from inside a hospital, misdiagnoses, delayed decisions, information gaps, and I think intelligent systems are one of the most honest answers to them. That's the intersection I'm building toward.
+Building: EventPlanna (Frontend engineer) and Rounds (AI clinical reasoning trainer).
 
-Right now I'm studying, shipping real products, and deepening my full-stack skills. The ML path is already in motion.
+Focus: High-performance React/Next.js interfaces, UI precision, and healthcare tech.
 
-- 🚀 Contributing to **EventPlanna** — an event management platform 
-- 🧪 Built **Rounds** — an AI clinical reasoning trainer that argues back at you
-- 🤖 Long-term goal: AI/ML engineering applied to real clinical problems
-- 🔭 Roadmap: NestJS · PostgreSQL · Prisma · Docker · React Native · Python · ML
-- 🤝 Open to frontend engineering roles
+Status: Open to frontend engineering roles.
 
 ---
 
