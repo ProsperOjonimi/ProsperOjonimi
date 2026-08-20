@@ -16,11 +16,11 @@
 
 I build web applications with a clinical edge. By day, I study medicine; by night, I build frontend interfaces and tools like Rounds to bridge the gap between healthcare workflows and modern software.
 
-Building: EventPlanna (Frontend engineer) and Rounds (AI clinical reasoning trainer).
+- Building: EventPlanna (Frontend engineer) and Rounds (AI clinical reasoning trainer).
 
-Focus: High-performance React/Next.js interfaces, UI precision, and healthcare tech.
+- Focus: High-performance React/Next.js interfaces, UI precision, and healthcare tech.
 
-Status: Open to frontend engineering roles.
+- Status: Open to frontend engineering roles.
 
 ---
 
