@@ -12,7 +12,7 @@
 
 ## A bit about me
 
-I'm a 4th-year medical student in Nigeria who also builds production frontend software. Two very different worlds, and I split real time between both.
+I'm a 4th-year medical student in Nigeria who also builds production frontend software. 
 
 Honestly, I didn't get into programming because of healthcare. I've always wanted to be an engineer, I love logic, I love math, I love how systems fit together, and that never really left me even after I ended up in medicine. So at some point I just decided to chase it and started learning to code, purely because it was what I wanted to do.
 
@@ -20,7 +20,7 @@ It was only later, once I was deep into being a medical student and building sof
 
 Today that looks like two things running in parallel. On **[Rounds](https://roundslive.com)**, I'm the solo founder building an AI clinical reasoning trainer, and on **[EventPlanna](https://eventplanna.com)**, I'm part of the frontend team shipping an event management platform for real users.
 
-**Currently:** open to frontend engineering roles, deep in Rounds' v2 redesign, and working toward the long game: AI and machine learning applied to healthcare.
+**Currently:** open to frontend engineering roles, refining my product, and working toward the long game: AI and machine learning applied to healthcare.
 
 ---
 
