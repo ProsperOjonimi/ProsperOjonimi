@@ -4,23 +4,23 @@
 
 <br/>
 
+<p><i>Writing React at midnight. Ward rounds in the morning. Both demand the same thing: clear thinking under pressure.</i></p>
 
-
-<p><i>Writing React at midnight. Ward rounds in the morning. Both demand the same thing, clear thinking under pressure.</i></p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=100&section=footer" width="100%"/>
 
 </div>
 
 ## A bit about me
 
-I build web applications with a clinical edge. By day, I study medicine; by night, I build frontend interfaces and tools like Rounds to bridge the gap between healthcare workflows and modern software.
+I'm a 4th-year medical student in Nigeria who also builds production frontend software. Two very different worlds, and I split real time between both.
 
-- Building: EventPlanna (Frontend engineer) and Rounds (AI clinical reasoning trainer).
+Honestly, I didn't get into programming because of healthcare. I've always wanted to be an engineer, I love logic, I love math, I love how systems fit together, and that never really left me even after I ended up in medicine. So at some point I just decided to chase it and started learning to code, purely because it was what I wanted to do.
 
-- Focus: High-performance React/Next.js interfaces, UI precision, and healthcare tech.
+It was only later, once I was deep into being a medical student and building software at the same time, that it clicked: why not bring these two together? That's where Rounds came from. I took what I was learning as an engineer and used it to build something that makes clinical reasoning better, not just for me, but for other students too.
 
-- Status: Open to frontend engineering roles.
+Today that looks like two things running in parallel. On **[Rounds](https://roundslive.com)**, I'm the solo founder building an AI clinical reasoning trainer, and on **[EventPlanna](https://eventplanna.com)**, I'm part of the frontend team shipping an event management platform for real users.
+
+**Currently:** open to frontend engineering roles, deep in Rounds' v2 redesign, and working toward the long game: AI and machine learning applied to healthcare.
 
 ---
 
@@ -77,9 +77,9 @@ I build web applications with a clinical edge. By day, I study medicine; by nigh
 
 ### 🎟️ [EventPlanna](https://eventplanna.com)
 
-An all-in-one event management platform. Think budget tracking, AI-powered vendor matching from a network of verified vendors, task management, team collaboration, drag-and-drop timelines, event templates, and lots more all under a pay-as-you-go credit model, no subscriptions.
+An all-in-one event management platform. Budget tracking, AI-powered vendor matching from a verified vendor network, task management, team collaboration, drag-and-drop timelines, event templates, and more, all on a pay-as-you-go credit model with no subscriptions.
 
-I'm part of the frontend engineering team. My work spans core product flows — onboarding, the dashboard, the credit system, the create event flow.... I've also been deep in API integrations, wiring up real data across features that actually move the product forward.
+I'm part of the frontend engineering team. My work spans the core product flows: onboarding, the dashboard, the credit system, the create-event flow, plus deep API integration work wiring real data across features that actually move the product forward.
 
 **Stack:**
 
@@ -90,11 +90,11 @@ I'm part of the frontend engineering team. My work spans core product flows — 
   </td>
     <td width="50%" valign="top">
 
-### 🧪 [Rounds](https://tryrounds.vercel.app)
+### 🧪 [Rounds](https://roundslive.com)
 
-An AI clinical reasoning trainer I built solo. You walk through a case and present your thinking. The AI consultant pushes back, no hand-holding, no revealing the diagnosis early. It's designed to feel like a real teaching round, the kind that actually makes you better.
+An AI clinical reasoning trainer I designed and built solo, from scratch, in about six weeks during my 4th year of med school. You walk through a real clinical case and present your thinking out loud to an AI consultant, "Dr. Prosper," who pushes back like a real attending would. No hand-holding, no revealing the diagnosis early.
 
-Built it because I got tired of passive studying.
+It started with 109+ cases and a couple hundred students testing it live. I'm mid-way through a full v2 rebuild right now: richer, more realistic cases, a proper investigations flow, and a consultant that actually feels human to talk to.
 
 **Stack:**
 
@@ -109,10 +109,19 @@ Built it because I got tired of passive studying.
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ProsperOjonimi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C5CE7&icon_color=6C5CE7&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperOjonimi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C5CE7&text_color=c9d1d9" />
+</div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ProsperOjonimi&theme=tokyonight&hide_border=true&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7" />
+  <img src="https://streak-stats.demolab.com/?user=ProsperOjonimi&theme=tokyonight&hide_border=true&background=00000000&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProsperOjonimi&theme=tokyo-night&hide_border=true&bg_color=00000000&color=6C5CE7&line=6C5CE7&point=ffffff" width="95%"/>
+</div>
+
 ---
 
 ## 🤝 Find me here
@@ -129,8 +138,9 @@ Built it because I got tired of passive studying.
 
 <br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Available+for+work+%7C;Headed+toward+AI%2FML+in+healthcare.;Building+at+the+medicine-tech+intersection.;Always+open+to+a+good+conversation." alt="Footer Typing" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Available+for+work+%7C;Headed+toward+AI%2FML+in+healthcare.;Building+at+the+medicine%E2%80%93tech+intersection.;Always+open+to+a+good+conversation." alt="Footer Typing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=100&section=footer" width="100%"/>
+
 </div>
+
